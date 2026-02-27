@@ -1,0 +1,21 @@
+.bordered img {
+  border: 5px solid rgb(32, 36, 70);
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.sarvagya {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    color:rgb(62, 107, 140);
+}
+
+body {
+    background-color: lightblue;
+}
